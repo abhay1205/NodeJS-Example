@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Manu:manumanu@cluster0-pz5eg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "tutorial"
+}
